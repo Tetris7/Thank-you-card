@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Tetris7/Thank-you-card.git
-- Live Site URL: https://tetris7.github.io/chef-werz-shawarma-card/
+- Live Site URL: https://tetris7.github.io/Thank-you-card/
 
 ## My process
 
